@@ -3,6 +3,6 @@
 
 - It's made for final project of programming course.
 
-- Check more detail in .pdf files.
+- Check more details in .pdf files.
 
 - [Game demo video](https://www.youtube.com/watch?v=qeG4FLgxWig)
